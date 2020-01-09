@@ -1,0 +1,4 @@
+[submodule "modulos_prueba_odoo13"]
+	path = modulos_prueba_odoo13
+	url = git@github.com:Tysamncaweb/modulos_prueba_odoo13.git
+	branch = master
